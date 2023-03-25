@@ -11,3 +11,5 @@ Features added:
  - Added the timer for all the games on discord;
  - Discord now displays the current server name, map and players present on the server;
  - Items in the Inventory now have icons, some of them needed to be made from scratch, thanks for the help Marloncha!
+ - Fixed the SPAS12 spawning as a AK in Workshops;
+ - Added back the Play Menu to select between Dedicated or P2P.
