@@ -1,2 +1,2 @@
 # ScramEvents
-Repo for shy's scram launcher.
+Repo for Shy's launcher.
