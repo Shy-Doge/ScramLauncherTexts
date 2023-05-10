@@ -1,2 +1,2 @@
 # ScramEvents
-Just a repo for the events on my launcher
+Repo for shy's scram launcher.
