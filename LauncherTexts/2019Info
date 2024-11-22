@@ -1,0 +1,23 @@
+Description:
+
+You are stuck in a dangerous area with no help.
+You must find the radio to call for an evacuation and wait until rescue arrives.
+A small portion of players are mutants and the rest are peasants who turn into mutants if they die.
+
+
+Features added:
+
+ - Scram's Workshop works and you can make/upload them (Button on the Launcher);
+ - In-game Workshop Uploader works and automatically adds "Scram-" to the mod name;
+ - Unlocked all the DLC's and Black-Market cosmetics;
+ - Singleplayer mode and Mod menu only for hosts;
+ - The Bloom effect has been removed;
+ - Voice Chat has been added and the Mute Button in the Scoreboard;
+ - Customize your VC binding (Default V to talk) and your Volume in Settings;
+ - Fixed Spectator camera and restored old text from previous versions of the game;
+ - Added the timer for all the games on discord;
+ - Discord now displays the current server name, map and players present on the server;
+ - Items in the Inventory now have icons, some of them needed to be made from scratch, thanks for the help Marloncha!
+ - Fixed the SPAS12 spawning as a AK in Workshops;
+ - Added back the Play Menu to select between Dedicated or P2P;
+ - Fixed the War Gamemode on Workshops.
